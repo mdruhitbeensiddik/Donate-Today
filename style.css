@@ -119,7 +119,7 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
 #paddings{
     width: 40%;
     padding-top: 50px;
-    padding-left: 200px;
+    padding-left: 100px;
     padding-bottom: 200px;
 }
 #paddings h1{
