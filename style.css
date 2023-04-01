@@ -60,6 +60,17 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
     border:solid 2px tomato;
     border-radius: 5px;
 }
-#input{
-    
+#boxm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#sinput{
+    align-items: center;
+    justify-content: center;
+    border: none;
+    outline: none;
+    border-bottom-style: groove;
+    color: rgb(39, 36, 36);
+    padding: 5px 300px;
 }
